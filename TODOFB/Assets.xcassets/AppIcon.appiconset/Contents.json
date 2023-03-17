@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "mdmmagic_todo_list_app_icon_8knew_1b8ea813-c62a-458b-84c3-d4e799998d19.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
